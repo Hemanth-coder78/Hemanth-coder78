@@ -59,7 +59,7 @@
 <h3 align="center">Thanks for visiting</h3>
 <p align="center" dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/mahmud-alam/count.svg">
-  <img src="https://profile-counter.glitch.me/mahmud-alam/count.svg" style="max-width: 100%;">
+ 
 </a>
 </p>
 
