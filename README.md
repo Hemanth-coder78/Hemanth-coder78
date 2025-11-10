@@ -15,11 +15,11 @@
 💡 Love open-source and sharing knowledge! 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="30" /> What I Do<br>
-- **🌐 Frontend:** Html,Css,JavaScript,React.js,Bootstrap
+- **🌐 Frontend:** Html, Css, JavaScript, React.js, Bootstrap
 - **⚙️ Backend:** Java, Node.js, Spring-Boot
 - **🛢️ Databases:** PostgreSQL, MySQL, OracleSQL 
 - **☁️ Cloud & DevOps:** Docker, GitHub Actions
-- **🧰 Tools:** Maven, Hibernate,REST APIs, Postman
+- **🧰 Tools:** Maven, Hibernate, REST APIs, Postman
 
 ## 🚧 Current Projects
 - 🔹 Building full-stack applications with modern frameworks  
