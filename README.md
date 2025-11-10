@@ -16,13 +16,16 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="30" /> What I Do<br>
 - **🌐 Frontend:** Html,Css,JavaScript,React.js,Bootstrap
-- **⚙️ Backend:** Java, Node.js, Spring-Boot, Hibernate, REST APIs  
-- **🛢️ Databases:**  PostgreSQL, MySQL, OracleSQL 
+- **⚙️ Backend:** Java, Node.js, Spring-Boot
+- **🛢️ Databases:** PostgreSQL, MySQL, OracleSQL 
 - **☁️ Cloud & DevOps:** Docker, GitHub Actions
+- **🧰 Tools:** Maven, Hibernate,REST APIs, Postman
 
 ## 🚧 Current Projects
 - 🔹 Building full-stack applications with modern frameworks  
-- 🔹 Enhancing performance & security in web applications  
+- 🔹 Enhancing performance & security in web applications
+- 🔹 Gained hands-on experience with Spring Boot & REST APIs
+- 🔹 Practiced end-to-end development, version control, and deployment
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/First%20Quarter%20Moon.webp" alt="First Quarter Moon" width="30" /> Connect With Me
 <p align="center">
