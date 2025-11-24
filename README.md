@@ -38,7 +38,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="30" /> Tech Stack  
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,go,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" /><br/>
   <!-- Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,bootstrap,tailwind,wordpress" /><br/>
   <!-- Databases -->
