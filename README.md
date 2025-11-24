@@ -40,7 +40,7 @@
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react" /><br/>
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=springboot,nodejs,bootstrap,tailwind,wordpress" /><br/>
+  <img src="https://skillicons.dev/icons?i=spring boot,nodejs,bootstrap,tailwind,wordpress" /><br/>
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,hibernate" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,postman" /><br/>
