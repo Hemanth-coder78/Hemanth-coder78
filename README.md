@@ -40,17 +40,15 @@
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" /><br/>
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,bootstrap,tailwind,wordpress" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,wordpress" /><br/>
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite," /><br/>
   <!-- Servers & Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,vercel" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker" /><br/>
    <!--DevOps -->
   <img src="https://skillicons.dev/icons?i=git,github,postman" /><br/>
-  <!-- ML -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn" /><br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=hibernate" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" /> GitHub Stats
