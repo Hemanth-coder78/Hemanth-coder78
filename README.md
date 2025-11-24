@@ -42,13 +42,10 @@
   <!-- Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,wordpress" /><br/>
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite," /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,hibernate" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" /><br/>
   <!-- Servers & Cloud -->
   <img src="https://skillicons.dev/icons?i=docker" /><br/>
-   <!--DevOps -->
-  <img src="https://skillicons.dev/icons?i=git,github,postman" /><br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=hibernate" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" /> GitHub Stats
