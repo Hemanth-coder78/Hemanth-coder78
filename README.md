@@ -38,12 +38,14 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="30" /> Tech Stack  
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react" /><br/>
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,wordpress" /><br/>
+  <img src="https://skillicons.dev/icons?i=springboot,nodejs,bootstrap,tailwind,wordpress" /><br/>
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,hibernate" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,postman" /><br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse" /><br/>
   <!-- Servers & Cloud -->
   <img src="https://skillicons.dev/icons?i=docker" /><br/>
 </p>
